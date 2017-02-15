@@ -16,7 +16,7 @@ $ make
 
 $ make install -version=3.99.5
 
-3.install yasm 1.2.0
+#3.install yasm 1.2.0
 
 $ wget  http://www.tortall.net/projects/yasm/releases/yasm-1.2.0.tar.gz
 
@@ -30,7 +30,7 @@ $ make
 
 $ make install 
 
-4.install x264
+#4.install x264
 
 $ git clone --depth 1 git://git.videolan.org/x264
 
@@ -42,7 +42,7 @@ $ make
 
 $ sudo make install 
 
-5.source install libvpx into ubuntu
+#5.source install libvpx into ubuntu
 
 $ tar -zxvf libvpx-1.6.1.tar.bz2
 
